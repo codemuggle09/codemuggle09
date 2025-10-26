@@ -2,7 +2,7 @@
   hey there <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" style="vertical-align: middle;" />
 </h2>
 
-I'm Monisha — a CSE undergrad at ABV-IIITM Gwalior.  
+I'm Monisha, a CSE undergrad at ABV-IIITM Gwalior.  
 I love crafting clean web experiences, ghostwriting viral threads, and exploring open source.  
 🌐 MERN stack developer, GenAI and DevOps enthusiast  
 Will debug for caffeine, one line of code (or tweet) at a time :)
